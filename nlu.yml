@@ -510,9 +510,85 @@ example:  |
      -will mentor be avaliable to clear my kids doubt
      -do mentor update me about my kids performance
      -can i discuss about improvement of my kid with mentor
+     -what is the educational background of mentors
+     -how to contact the mentor
+     -will mentor help my child with his doubts in python 
+     
+
    -intent: Ask_discounts
      -can i get any discount for my kid
+     -Can I get any promo code for discount of course?
+     -is there any discount for longer period
+     -what all discounts do you have
+     -Are there any discounts on yearly plan?
+     -Are there any discounts on starter plan?
+     -Are there any discounts on basic plan?
+     -If I buy professional package, do I get a discount? 
+     -do I get a discount, if I belong to weaker economic section? 
+     -If I register two kids on your website, do I get a discount? 
+     -Can I remove Game app development from Basic course and get discount?
+     -Can I remove Game app development from Starter course and get discount?
+     -Can I remove Game app development from Yearly course and get discount?
+     -Can I remove Web development from Basic course and get discount?
+     -Can I remove Web development from Starter course and get discount?
+     -Can I remove Web development from Yearly course and get discount?
+     -Can I remove Mobile app development from Basic course and get discount?
+     -Can I remove Mobile app development from Starter course and get discount?
+     -Can I remove Mobile app development from Yearly course and get discount?
+     -if yes,how much discount can i expect for my kid
+     -if yes,on what basis can i get discount for my kid
+     -if no,can i know reason for not getting discount
      
+    -intent : Progress report
+     -Do you give progress report for grade 1-4 students enrolled in intermediate course?
+     -Do you give progress report for grade 1-4 students enrolled in professional course?
+     -Do you provide progress report for grade 5-7 students enrolled in basic course?
+     -Do you provide progress report for grade 5-7 students enrolled in intermediate course?
+     -Do you provide progress report for grade 5-7 students enrolled in professional course?
+     -Do you provide progress report for grade 7-10 students enrolled in basic course?
+     -Do you provide progress report for grade 7-10 students enrolled in intermediate course?
+     -Do you provide progress report for grade 7-10 students enrolled in professional course?
+     -Do you provide progress report for grade 10+ students enrolled in basic course?
+     -Do you provide progress report for grade 10+ students enrolled in intermediate course?
+     -Do you provide progress report for grade 10+ students enrolled in professional course?
+     -Do you provide weekly progress report of students in 1:1 live classes?
+     -Do you provide weekly progress report of students for basic course of live classes?
+     -Do you provide weekly progress report of students for starter course of live classes?
+     -Do you provide weekly progress report of students for yearly course of live classes?
+     -Do you provide weekly progress report for grade 1-4 students enrolled in basic course?
+     -Do you provide weekly progress report for grade 1-4 students enrolled in intermediate course?
+     -Do you provide weekly progress report for grade 1-4 students enrolled in professional course?
+     -Do you provide weekly progress report for grade 5-7 students enrolled in basic course?
+     -Do you provide weekly progress report for grade 5-7 students enrolled in intermediate course?
+     -Do you provide weekly progress report for grade 5-7 students enrolled in professional course?
+     -Do you provide weekly progress report for grade 7-10 students enrolled in basic course?
+     -Do you provide weekly progress report for grade 7-10 students enrolled in intermediate course?
+     -Do you provide weekly progress report for grade 7-10 students enrolled in professional course?
+     -Do you provide weekly progress report for grade 10+ students enrolled in basic course?
+     -Do you provide weekly progress report for grade 10+ students enrolled in intermediate course?
+     -Do you provide weekly progress report for grade 10+ students enrolled in professional course?
+     -Do you provide monthly progress report of students in 1:1 live classes?
+     -Do you provide monthly progress report of students for basic course of live classes?
+     -Do you provide monthly progress report of students for starter course of live classes?
+     -Do you provide monthly progress report of students for yearly course of live classes?
+     -Do you provide monthly progress report for grade 1-4 students enrolled in basic course?
+     -Do you provide monthly progress report for grade 1-4 students enrolled in intermediate course?
+     -Do you provide monthly progress report for grade 1-4 students enrolled in professional course?
+     -Do you provide monthly progress report for grade 5-7 students enrolled in basic course?
+     -Do you provide monthly progress report for grade 5-7 students enrolled in intermediate course?
+     -Do you provide monthly progress report for grade 5-7 students enrolled in professional course?
+     -Do you provide monthly progress report for grade 7-10 students enrolled in basic course?
+     -Do you provide monthly progress report for grade 7-10 students enrolled in intermediate course?
+     -Do you provide monthly progress report for grade 7-10 students enrolled in professional course?
+     -Do you provide monthly progress report for grade 10+ students enrolled in basic course?
+     -Do you provide monthly progress report for grade 10+ students enrolled in intermediate course?
+     -Do you provide monthly progress report for grade 10+ students enrolled in professional course?
+     -Do you provide yearly progress report after completion of professional course?
+     -Do you provide yearly progress report after completion of professional course for 1-4 grade students?
+     -Do you provide yearly progress report after completion of professional course for 5-7 grade students?
+     -Do you provide yearly progress report after completion of professional course for 7-10 grade students?
+     -Do you provide yearly progress report after completion of professional course for 10+ grade students?
+          
 - intent : Ask_comapare_companies
     - How is CKY better than other online kids coding platforms?
     - Is CKY better than WhiteHat Jr.?
